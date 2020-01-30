@@ -57,9 +57,9 @@
 			isa = PBXGroup;
 			children = (
 				F3680E4A23E26F09005A597D /* AppDelegate.swift */,
-				F3680E4C23E26F09005A597D /* art.scnassets */,
 				F3680E4E23E26F09005A597D /* ViewController.swift */,
 				F3680E5023E26F09005A597D /* Main.storyboard */,
+				F3680E4C23E26F09005A597D /* art.scnassets */,
 				F3680E5323E26F0B005A597D /* Assets.xcassets */,
 				F3680E5523E26F0B005A597D /* LaunchScreen.storyboard */,
 				F3680E5823E26F0B005A597D /* Info.plist */,
@@ -285,6 +285,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N48699X77A;
 				INFOPLIST_FILE = ARDicee/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -302,6 +303,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = N48699X77A;
 				INFOPLIST_FILE = ARDicee/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
